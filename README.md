@@ -2,7 +2,7 @@
 
 A frontend dashboard for monitoring and analyzing financial transactions — built with **Next.js 15 (App Router)**, **JavaScript**, and **TanStack Query**.
 
-> Live demo link — add after deployment
+> [Live Demo](https://transaction-insights-dashboard.vercel.app)
 
 ---
 
